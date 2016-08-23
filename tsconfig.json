@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noImplicitAny": false,
+        "outDir": "build",
+        "removeComments": true,
+        "sourceMap": false,
+        "target": "es5"
+    },
+    "files": ["c.ts"]
+}
